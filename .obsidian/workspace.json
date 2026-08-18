@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +175,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,10 +198,11 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678b7485730b0e38",
+  "active": "675e77f8e391cb42",
   "lastOpenFiles": [
     "Bem-vindo.md"
   ]
