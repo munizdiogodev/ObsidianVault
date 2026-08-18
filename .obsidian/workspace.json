@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATA'S/PYTHON/ENGINE PYODBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATA'S/PYTHON/ENGINE PYODBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATA'S/Sem título.md",
+                "file": "DATA'S/PYTHON/ENGINE PYODBC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,11 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51abeaf69c21ce6",
+  "active": "678b7485730b0e38",
   "lastOpenFiles": [
+    "DATA'S/Sem título.md",
     "DATA'S/CODES",
     "DATA'S/CODES.md",
-    "DATA'S/Sem título.md",
     "DATA'S/PYTHON/ENGINE PYODBC.md",
     "DATA'S/PYTHON/RODAR PROPMT.md",
     "DATA'S/PYTHON/ROBO ENVIAR ANEXO VIA EMAIL.md",
