@@ -11,10 +11,14 @@
             "id": "678b7485730b0e38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DATA'S/PYTHON/ENGINE PYODBC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "ENGINE PYODBC"
             }
           }
         ]
@@ -155,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DATA'S/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,8 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678b7485730b0e38",
+  "active": "f51abeaf69c21ce6",
   "lastOpenFiles": [
+    "DATA'S/CODES",
+    "DATA'S/CODES.md",
+    "DATA'S/Sem título.md",
+    "DATA'S/PYTHON/ENGINE PYODBC.md",
+    "DATA'S/PYTHON/RODAR PROPMT.md",
+    "DATA'S/PYTHON/ROBO ENVIAR ANEXO VIA EMAIL.md",
+    "DATA'S/PYTHON/PANDAS AGRUPAR DADOS.md",
+    "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
+    "DATA'S/EXCEL/DIFERENÇA DE HORARIO NO EXCEL.md",
     "DASSSSSSSSSSSSSSSSSSSSSszzz.md",
     "DATA'S/SQL/UNPIVOT E PIVOT.md",
     "DATA'S/SQL/SUBSTRING - ACHAR UM NUMERO PELO INDICE ESPECIFICO.md",
@@ -201,15 +215,6 @@
     "DATA'S/SQL/MANDAR E-MAIL PELO SQL.md",
     "DATA'S/SQL/LAYOUT EMAIL - SQL.md",
     "DATA'S/SQL/INSERIR DADOS SEMELHANTE DE UMA LINHA EXISTENTE.md",
-    "DATA'S/SQL/FAZER UMA COLUNA VIRAR UMA LINHA.md",
-    "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
-    "DATA'S/SQL/DELETER COLUNA.md",
-    "DATA'S/SQL/CRIAR UMA TABELA COPIA SEM CONTEUDO.md",
-    "DATA'S/SQL/CREATE VIEW.md",
-    "DATA'S/SQL/CONVERTER PARA PORCENTAGEM.md",
-    "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
-    "DATA'S/SQL/BULK INSERT.md",
-    "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
