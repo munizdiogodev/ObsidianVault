@@ -1,6 +1,6 @@
 [Manipulação de dados desnormalizados em Python: Utilizando re e lstrip() - DEV Community](https://dev.to/womakerscode/manipulacao-de-dados-desnormalizados-em-python-utilizando-re-e-lstrip-221e)
 
-Esse exemplo é bem legal, pois eu precisava caçar os 0800 dentro de um texto com enormes informações, separando entao com o for para vir por cada linha, o regex entra em ação pegando apenas nume
+Esse exemplo é bem legal, pois eu precisava caçar os 0800 dentro de um texto com enormes informações, separando entao com o for para vir por cada linha, o regex entra em ação pegando um padrao de como vem o 0800 (0800 880 6976). Coletando então e 
 ``` PYTHON
   
 import re from pypdf import PdfReader
@@ -8,6 +8,9 @@ import re from pypdf import PdfReader
 dir = r'C:\Users\diogo.souza\Downloads\TOP THERM - 28.08.pdf'
 pdf_reader = PdfReader(dir)
 text_target = '0800'
+
+# [\s\.-]? = depois do 0800 pode estar vazio ou ter um hifen
+# \d{3} = ter 3 digitos 
 
 
 padrao_0800 = r'0800[\s\.-]?\d{3}[\s\.-]?\d{4}'
