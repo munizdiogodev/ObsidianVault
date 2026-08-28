@@ -1,6 +1,18 @@
 [Manipulação de dados desnormalizados em Python: Utilizando re e lstrip() - DEV Community](https://dev.to/womakerscode/manipulacao-de-dados-desnormalizados-em-python-utilizando-re-e-lstrip-221e)
 
-Esse exemplo é bem legal, pois eu precisava caçar os 0800 dentro de um texto com enormes informações, separando entao com o for para vir por cada linha, o regex entra em ação pegando um padrao de como vem o 0800 (0800 880 6976). Coletando então e 
+
+
+###### Principais Re:
+- **`re.search(pattern, string)`**: Procura o padrão em qualquer lugar da string e retorna um objeto de correspondência (_match_) ou `None`.
+
+- **`re.findall(pattern, string)`**: Encontra todas as ocorrências do padrão em uma string e retorna uma lista com os resultados.
+
+- **`re.sub(pattern, repl, string)`**: Substitui as ocorrências do padrão por um novo texto (_repl_) dentro da string.
+
+- **`re.compile(pattern)`**: Compila um padrão de regex em um objeto reutilizável para melhorar a performance em buscas repetidas.
+
+Esse exemplo é bem legal, pois eu precisava caçar os 0800 dentro de um texto com enormes informações, separando entao com o for para vir por cada linha, o regex entra em ação pegando um padrao de como vem o 0800 (0800 880 6976). Coletando então e encontrando todos os casos que tenha esse padrao com o findall
+
 ``` PYTHON
   
 import re from pypdf import PdfReader
