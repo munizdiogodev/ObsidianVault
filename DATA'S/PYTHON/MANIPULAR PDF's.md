@@ -1,0 +1,1 @@
+[Manipulando Arquivos PDF com Python](https://pythonacademy.com.br/blog/manipulando-arquivos-pdf-com-python)
