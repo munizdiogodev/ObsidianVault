@@ -1,0 +1,1 @@
+[Manipulação de dados desnormalizados em Python: Utilizando re e lstrip() - DEV Community](https://dev.to/womakerscode/manipulacao-de-dados-desnormalizados-em-python-utilizando-re-e-lstrip-221e)
