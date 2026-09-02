@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
+                "file": "DATA'S/EXCEL/SELECIONAR LINHA OU COLUNA DESEJADA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCULTAR LINHA OU COLUNA NO TECLADO"
+              "title": "SELECIONAR LINHA OU COLUNA DESEJADA"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 499.5
   },
   "right": {
     "id": "a832ddaa702d0688",
@@ -191,8 +191,9 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/PYTHON/ROBO ENVIAR ANEXO VIA EMAIL.md",
     "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
+    "DATA'S/EXCEL/SELECIONAR LINHA OU COLUNA DESEJADA.md",
+    "DATA'S/PYTHON/ROBO ENVIAR ANEXO VIA EMAIL.md",
     "DATA'S/PYTHON/ENGINE PYODBC.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
     "DATA'S/PYTHON/RE(REGEX) FORMATAÇÃO DE STRINGS.md",
@@ -217,7 +218,6 @@
     "DATA'S/SQL/OVER() IGNORAR GROUPBY.md",
     "DATA'S/SQL/OUTER  APPLY x CROSS APPLY.md",
     "DATA'S/SQL/MERGE.md",
-    "DATA'S/SQL/MANDAR E-MAIL PELO SQL.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
