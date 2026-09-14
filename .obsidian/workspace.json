@@ -188,10 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678b7485730b0e38",
+  "active": "f51abeaf69c21ce6",
   "lastOpenFiles": [
-    "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
+    "DATA'S/DATABRICKS",
+    "DATA'S/Sem título.md",
     "DATA'S/EXCEL/SELECIONAR LINHA OU COLUNA DESEJADA.md",
+    "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
     "DATA'S/PYTHON/ROBO ENVIAR ANEXO VIA EMAIL.md",
     "DATA'S/PYTHON/ENGINE PYODBC.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
@@ -199,7 +201,6 @@
     "DATA'S/PYTHON/MANIPULAR PDF's.md",
     "DATA'S/PYTHON/PANDAS AGRUPAR DADOS.md",
     "DATA'S/PYTHON/RODAR PROPMT.md",
-    "DATA'S/Sem título.md",
     "DATA'S/CODES",
     "DATA'S/CODES.md",
     "DATA'S/EXCEL/DIFERENÇA DE HORARIO NO EXCEL.md",
@@ -216,7 +217,6 @@
     "DATA'S/SQL/PATINDEX.md",
     "DATA'S/SQL/OVER() IGNORAR GROUPBY.md",
     "DATA'S/SQL/OUTER  APPLY x CROSS APPLY.md",
-    "DATA'S/SQL/MERGE.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
