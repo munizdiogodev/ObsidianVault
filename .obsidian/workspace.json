@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+                "file": "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRIAR SCHEMA E VOLUME NOVO"
+              "title": "COPIANDO DADOS DE UM VOLUME PARA OUTRO"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+                "file": "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,9 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/SQL/PEGAR PRIMEIRO DIA DO MÊS ATUAL.md",
     "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+    "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+    "DATA'S/SQL/PEGAR PRIMEIRO DIA DO MÊS ATUAL.md",
     "DATA'S/EXCEL/DIFERENÇA DE HORARIO NO EXCEL.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
     "DATA'S/EXCEL/SELECIONAR LINHA OU COLUNA DESEJADA.md",
@@ -217,7 +218,6 @@
     "DATA'S/SQL/PEGAR HORAS-MIN-SEG NO SQL.md",
     "DATA'S/SQL/PARTION BY.md",
     "DATA'S/SQL/PATINDEX.md",
-    "DATA'S/SQL/OVER() IGNORAR GROUPBY.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
