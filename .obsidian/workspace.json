@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COPIANDO DADOS DE UM VOLUME PARA OUTRO"
+              "title": "CRIAR SCHEMA E VOLUME NOVO"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,8 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/SQL/PEGAR PRIMEIRO DIA DO MÊS ATUAL.md",
     "DATA'S/EXCEL/DIFERENÇA DE HORARIO NO EXCEL.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
