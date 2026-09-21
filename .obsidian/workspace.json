@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/DATABRICKS/CONCATENAR.md",
+                "file": "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONCATENAR"
+              "title": "ENCONTRAR TABELA PELO NOME DA COLUNA"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/DATABRICKS/CONCATENAR.md",
+                "file": "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,8 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/CONCATENAR.md",
+    "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
     "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/USAR REPLACE.md",
