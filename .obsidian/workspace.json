@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/ROADMAP.md",
+                "file": "DATA'S/DATABRICKS/INNER JOIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "INNER JOIN"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/ROADMAP.md",
+                "file": "DATA'S/DATABRICKS/INNER JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,9 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/ROADMAP.md",
+    "DATA'S/DATABRICKS/INNER JOIN.md",
+    "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/DATABRICKS/CONCATENAR.md",
     "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
@@ -217,7 +218,6 @@
     "DATA'S/SQL/STUFF-Inserção ou Substituição Precisa de Substring em T-SQL.md",
     "DATA'S/SQL/SABER QUANTAS E QUAIS COLUNAS UMA TABELA TEM.md",
     "DATA'S/SQL/ROW_NUMBER  + OVER + PARTITION BY.md",
-    "DATA'S/SQL/ROLL UP PARA SUBTOTAIS.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
