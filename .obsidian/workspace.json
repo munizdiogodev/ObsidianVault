@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/DATABRICKS/INNER JOIN.md",
+                "file": "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INNER JOIN"
+              "title": "ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/DATABRICKS/INNER JOIN.md",
+                "file": "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +190,10 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/ROADMAP.md",
+    "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
+    "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
     "DATA'S/DATABRICKS/INNER JOIN.md",
+    "DATA'S/ROADMAP.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/DATABRICKS/CONCATENAR.md",
     "DATA'S/DATABRICKS/CASE.md",
@@ -216,8 +218,6 @@
     "DATA'S/SQL/UNPIVOT E PIVOT.md",
     "DATA'S/SQL/SUBSTRING - ACHAR UM NUMERO PELO INDICE ESPECIFICO.md",
     "DATA'S/SQL/STUFF-Inserção ou Substituição Precisa de Substring em T-SQL.md",
-    "DATA'S/SQL/SABER QUANTAS E QUAIS COLUNAS UMA TABELA TEM.md",
-    "DATA'S/SQL/ROW_NUMBER  + OVER + PARTITION BY.md",
     "DATA'S/SQL",
     "DATA'S/PYTHON",
     "DATA'S/EXCEL",
