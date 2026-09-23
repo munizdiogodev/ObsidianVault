@@ -25,8 +25,8 @@ values
 (cli.tel11), (cli.tel12), (cli.tel13), (cli.tel14), (cli.tel15),
 (cli.tel16), (cli.tel17), (cli.tel18), (cli.tel19), (cli.tel20)
 
-) as t(telEncontrado) --criando entao uma coluna só, de um nome para ela
-on l.NR_TELEFONE = telEncontrado
+) as t(telEncontrado) --criando entao a tabela(t) uma coluna(telEncontrado) só, de um nome para ela
+on l.NR_TELEFONE = telEncontrado 
 
 
 where l.TX_STATUS = 'Abandono na saudacao'
