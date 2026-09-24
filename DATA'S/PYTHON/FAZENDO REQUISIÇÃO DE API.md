@@ -1,0 +1,1 @@
+[Primeiros passos com solicitações HTTP Python para APIs REST | DataCamp](https://www.datacamp.com/pt/tutorial/making-http-requests-in-python)
