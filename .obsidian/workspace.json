@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ZIP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678b7485730b0e38",
+  "active": "f51abeaf69c21ce6",
   "lastOpenFiles": [
     "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
