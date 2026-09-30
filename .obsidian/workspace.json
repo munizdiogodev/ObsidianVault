@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ZIP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +79,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 783.5
   },
   "right": {
     "id": "a832ddaa702d0688",
@@ -190,23 +191,23 @@
   },
   "active": "678b7485730b0e38",
   "lastOpenFiles": [
-    "DATA'S/PYTHON/RODAR PROPMT.md",
+    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+    "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+    "DATA'S/DATABRICKS/CONCATENAR.md",
+    "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
+    "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/PYTHON/USAR FOR DENTRO DE FOR COM O (ZIP).md",
+    "DATA'S/PYTHON/RODAR PROPMT.md",
     "DATA'S/PYTHON/FAZENDO REQUISIÇÃO DE API.md",
     "DATA'S/PYTHON/ENGINE PYODBC.md",
     "DATA'S/PYTHON/MANIPULAR PDF's.md",
     "DATA'S/PYTHON/PANDAS AGRUPAR DADOS.md",
     "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
-    "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
     "DATA'S/SQL/BULK INSERT.md",
     "DATA'S/SQL/ACHAR EM QUAL LUGAR ESTA A PROCEDURE.md",
     "DATA'S/DATABRICKS/INNER JOIN.md",
     "DATA'S/ROADMAP.md",
-    "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
-    "DATA'S/DATABRICKS/CONCATENAR.md",
     "DATA'S/DATABRICKS/CASE.md",
-    "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
-    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/USAR REPLACE.md",
     "DATA'S/SQL/PEGAR PRIMEIRO DIA DO MÊS ATUAL.md",
     "DATA'S/EXCEL/DIFERENÇA DE HORARIO NO EXCEL.md",
