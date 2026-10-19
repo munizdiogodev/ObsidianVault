@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
+                "file": "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENCONTRAR TABELA PELO NOME DA COLUNA"
+              "title": "CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
+                "file": "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +205,8 @@
   },
   "active": "33fef6197617289d",
   "lastOpenFiles": [
-    "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
+    "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
     "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
     "DATA'S/SQL/ROW_NUMBER  + OVER + PARTITION BY.md",
     "DATA'S/SQL/SABER QUANTAS E QUAIS COLUNAS UMA TABELA TEM.md",
