@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
+                "file": "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO"
+              "title": "ENCONTRAR PROCEDURE QUE ALIMENTA TABELA"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
+                "file": "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,8 @@
   },
   "active": "33fef6197617289d",
   "lastOpenFiles": [
+    "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
+    "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/SQL/ENCONTRAR UM CONTEUDO DE UMA TABELA QUE PODE ESTAR EM VARIAS COLUNAS DE OUTRA TABELA.md",
     "DATA'S/SQL/ACHAR UMA INFO EM VARIAS COLUNAS.md",
@@ -230,8 +232,6 @@
     "DATA'S/PYTHON/MANIPULAR PDF's.md",
     "DATA'S/PYTHON/PANDAS AGRUPAR DADOS.md",
     "DATA'S/ROADMAP.md",
-    "DATA'S/DATABRICKS/CASE.md",
-    "DATA'S/SQL/PEGAR PRIMEIRO DIA DO MÊS ATUAL.md",
     "DATA'S/DATABRICKS",
     "DATA'S/CODES",
     "DATA'S/SQL",
