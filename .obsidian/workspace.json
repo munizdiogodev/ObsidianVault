@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+                "file": "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRIAR SCHEMA E VOLUME NOVO"
+              "title": "MODELO DE CARREGAR UM CSV"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+                "file": "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +194,8 @@
     "DATA'S/DATABRICKS/CONCATENAR.md",
     "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/ANOTAÇOES.md",
+    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+    "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
     "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
@@ -204,8 +206,6 @@
     "DATA'S/SQL/STUFF-Inserção ou Substituição Precisa de Substring em T-SQL.md",
     "DATA'S/SQL/BULK INSERT.md",
     "DATA'S/SQL/ACHAR EM QUAL LUGAR ESTA A PROCEDURE.md",
-    "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
-    "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/INNER JOIN.md",
     "DATA'S/DATABRICKS/USAR REPLACE.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
