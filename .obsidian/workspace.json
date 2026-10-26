@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATA'S/PYTHON/ENGINE PYODBC.md",
+                "file": "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +170,8 @@
               "title": "Sumário"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,13 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebebb6c9e82cdbaf",
+  "active": "4003749f13a0d26c",
   "lastOpenFiles": [
     "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
     "DATA'S/DATABRICKS/CONCATENAR.md",
-    "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/ANOTAÇOES.md",
+    "DATA'S/DATABRICKS/CASE.md",
     "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+    "DATA'S/DATABRICKS/INNER JOIN.md",
+    "DATA'S/DATABRICKS/USAR REPLACE.md",
     "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
@@ -206,8 +209,6 @@
     "DATA'S/SQL/STUFF-Inserção ou Substituição Precisa de Substring em T-SQL.md",
     "DATA'S/SQL/BULK INSERT.md",
     "DATA'S/SQL/ACHAR EM QUAL LUGAR ESTA A PROCEDURE.md",
-    "DATA'S/DATABRICKS/INNER JOIN.md",
-    "DATA'S/DATABRICKS/USAR REPLACE.md",
     "DATA'S/EXCEL/AJUSTAR TAMANHO DA CELULA.md",
     "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
     "DATA'S/PYTHON/USAR FOR DENTRO DE FOR COM O (ZIP).md",

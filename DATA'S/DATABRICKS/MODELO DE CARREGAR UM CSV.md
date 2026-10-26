@@ -1,7 +1,8 @@
 Exemplo de criação da view de um csv, esse pathfile é um exemplo
 ``` python
 # Caminho completo do arquivo no seu Volume
-
+from pyspark.sql.functions import *
+from pyspark.sql.types import *
 path_file = "/Volumes/workspace/sandbox/mundo_transfermarkt_competicoes_brasileirao_serie_a/mundo_transfermarkt_competicoes_brasileirao_serie_a.csv"
 
   
