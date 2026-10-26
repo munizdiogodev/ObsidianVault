@@ -11,10 +11,14 @@
             "id": "ebebb6c9e82cdbaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "CRIAR SCHEMA E VOLUME NOVO"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +190,10 @@
   },
   "active": "ebebb6c9e82cdbaf",
   "lastOpenFiles": [
+    "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
+    "DATA'S/DATABRICKS/CONCATENAR.md",
+    "DATA'S/DATABRICKS/CASE.md",
+    "DATA'S/DATABRICKS/ANOTAÇOES.md",
     "DATA'S/SQL/ENCONTRAR TABELA PELO NOME DA COLUNA.md",
     "DATA'S/SQL/ENCONTRAR PROCEDURE QUE ALIMENTA TABELA.md",
     "DATA'S/SQL/CHARINDEX + LEFT = TIRAR SUJEIRA DE UM REGISTRO.md",
@@ -196,7 +205,6 @@
     "DATA'S/SQL/BULK INSERT.md",
     "DATA'S/SQL/ACHAR EM QUAL LUGAR ESTA A PROCEDURE.md",
     "DATA'S/DATABRICKS/MODELO DE CARREGAR UM CSV.md",
-    "DATA'S/DATABRICKS/ANOTAÇOES.md",
     "DATA'S/DATABRICKS/CRIAR SCHEMA E VOLUME NOVO.md",
     "DATA'S/DATABRICKS/INNER JOIN.md",
     "DATA'S/DATABRICKS/USAR REPLACE.md",
@@ -204,14 +212,11 @@
     "DATA'S/EXCEL/OCULTAR LINHA OU COLUNA NO TECLADO.md",
     "DATA'S/PYTHON/USAR FOR DENTRO DE FOR COM O (ZIP).md",
     "DATA'S/SANDBOX DE DADOS",
-    "DATA'S/DATABRICKS/COPIANDO DADOS DE UM VOLUME PARA OUTRO.md",
-    "DATA'S/DATABRICKS/CONCATENAR.md",
     "DATA'S/PYTHON/RODAR PROPMT.md",
     "DATA'S/PYTHON/FAZENDO REQUISIÇÃO DE API.md",
     "DATA'S/PYTHON/ENGINE PYODBC.md",
     "DATA'S/PYTHON/MANIPULAR PDF's.md",
     "DATA'S/PYTHON/PANDAS AGRUPAR DADOS.md",
-    "DATA'S/ROADMAP.md",
     "DATA'S/DATABRICKS",
     "DATA'S/CODES",
     "DATA'S/SQL",
