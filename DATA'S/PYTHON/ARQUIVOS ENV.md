@@ -44,6 +44,7 @@ URL_LOGIN = "https://toptherm.lh.com.br:9060/sso/login"
   
 
 # Verificando se as credenciais existem
+.
 
 if not email or not senha:
 
